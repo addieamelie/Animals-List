@@ -7,7 +7,7 @@ Web app for kids to learn French names of zoo animals:
 * Displays a list of animal English and French names
 * Every animal has a seperate details page
 
-![Animals in French preview](animals-preview.png)
+![Animals in French preview](detail-preview.png)
 
 Made using:
 Angular
