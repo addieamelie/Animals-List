@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "frenchName": "le lion",
+    "details": "Lion is a king of the jungle!",
+    "imageURL": "../../assets/img/lion.png"
+  },
+  {
+    "id": 2,
+    "name": "Turtle",
+    "frenchName": "la tortue",
+    "details": "Turtles can live for hundres of years!",
+    "imageURL": "../../assets/img/turtle.png"
+  },
+  {
+    "id": 3,
+    "name": "Penguin",
+    "frenchName": "le pingouin",
+    "details": "Penguins are birds, but don't fly!",
+    "imageURL": "../../assets/img/penguin.png"
+  },
+  {
+    "id": 4,
+    "name": "Elephant",
+    "frenchName": "l'éléphant",
+    "details": "Elephants live in Asia and Africa!",
+    "imageURL": "../../assets/img/elephant.png"
+  },
+  {
+    "id": 5,
+    "name": "Koala",
+    "frenchName": "le koala",
+    "details": "Koalas eat eucalyptus leaves!",
+    "imageURL": "../../assets/img/koala.png"
+  },
+  {
+    "id": 6,
+    "name": "Panda",
+    "frenchName": "le panda",
+    "details": "Pandas eat bamboo!",
+    "imageURL": "../../assets/img/panda.png"
+  },
+  {
+    "id": 7,
+    "name": "Monkey",
+    "frenchName": "le singe",
+    "details": "Monkeys love bananas!",
+    "imageURL": "../../assets/img/monkey.png"
+  },
+  {
+    "id": 8,
+    "name": "Tiger",
+    "frenchName": "le tigre",
+    "details": "Tigers are a type of cat!",
+    "imageURL": "../../assets/img/tiger.png"
+  },
+  {
+    "id": 9,
+    "name": "Zebra",
+    "frenchName": " le zèbre",
+    "details": "Every zebra has different stripes!",
+    "imageURL": "../../assets/img/zebra.png"
+  },
+  {
+    "id": 10,
+    "name": "Crocodile",
+    "frenchName": "le crocodile",
+    "details": "Crocodiles have sharp teeth and strong bite!",
+    "imageURL": "../../assets/img/crocodile.png"
+  },
+  {
+    "id": 11,
+    "name": "Ostrich",
+    "frenchName": "l'autruche",
+    "details": "Ostrich can run very fast!",
+    "imageURL": "../../assets/img/ostrich.png"
+  },
+  {
+    "id": 12,
+    "name": "Giraffe",
+    "frenchName": "le giraffe",
+    "details": "Giraffe has a very long neack to reach trees!",
+    "imageURL": "../../assets/img/giraffe.png"
+  }
+]

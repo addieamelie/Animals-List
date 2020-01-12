@@ -1,5 +1,10 @@
 # SpeciesApp
 
+
+
+<a href="https://www.freepik.com/free-photos-vectors/nature">Nature vector created by studiogstock - www.freepik.com</a>
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by freepik - www.freepik.com</a>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server

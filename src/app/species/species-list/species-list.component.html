@@ -1,0 +1,9 @@
+<app-filter-textbox (changed)="filter($event)"></app-filter-textbox>
+<ul > 
+  <li class="speciesList"  *ngFor="let spec of filteredSpecies">
+      <a [routerLink]="['/details', spec.id]">
+          {{spec.name}} 
+          <div class="listFrenchName">{{spec.frenchName}}</div>
+        </a>
+    </li>
+</ul>

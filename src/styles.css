@@ -1,1 +1,107 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+  background: url(/assets/img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 900px;
+  text-align: center;
+  font-family: "Short Stack", cursive;
+  background-color: #ffffff;
+  color: #000;
+  margin: 0 0 150px;
+}
+
+
+ul {
+  list-style-type: none; /* Remove default styling */
+  padding: 0;
+  margin: 0 auto;
+  width: 25%;
+  max-height: 400px;
+}
+
+li a {
+  background-color: #f6f6f6d0;
+  padding: 12px;
+  text-decoration: none; /* Remove default text underline */
+  font-size: 1.2em;
+  color: #000;
+  display: block; /* Make it into a block element to fill the whole list */
+}
+
+ul li a:hover {
+  background-color: rgb(255, 255, 255); /* Add a hover effect to all links*/
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding-top: 20px;
+    height: 100px;
+    width: 100%;
+    color: #fff;
+    background-color: #42a633a8;
+}
+footer a{
+    text-decoration: none;
+    font-size: .9em;
+    color: #000000;
+}
+footer a:hover{
+    color: #bee7f9;
+}
+.heading {
+    font-size: 4em;
+    font-weight: bold;
+    margin: 1em auto 0;
+    width: 40%;
+    color: #05ab42;
+    font-family: "Gochi Hand", cursive;
+    text-shadow: 1px 1px 50px #fff, 1px 1px 50px #fff;
+  }
+  .subtitle {
+    font-size: 1.5em;
+  }
+.listFrenchName {
+  font-style: italic;
+  color: #05ab42;
+  display: inline-block;
+}
+.searchInput {
+  display: block;
+  width: 25%;
+  font-size: 1em;
+  padding: 12px;
+  border: 1px solid #ddd;
+  margin: 2em auto;
+  font-family: "Short Stack", cursive;
+}
+
+.detail-img {
+  max-height: 200px;
+  max-width: 300px;
+}
+.detail-frenchName {
+  font-weight: bold;
+  font-size: 3em;
+}
+.detail-fact {
+  font-size: 1.5em;
+}
+.back-link {
+  text-decoration: none;
+  color: #009d3a;
+  text-shadow: 1px 1px 20px #fff, 1px 1px 20px #fff;
+  font-family: "Gochi Hand", cursive;
+  font-size: 2em;
+  font-weight: bold;
+}
+.back-link:hover {
+  color: #fff;
+}
