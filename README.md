@@ -1,9 +1,18 @@
 # SpeciesApp
 
+![Animals in French preview](animals-preview.png)
 
+Web app for kids to learn French names of zoo animals:
+* Takes user input and filters searches in list
+* Displays a list of animal English and French names
+* Every animal has a seperate details page
 
-<a href="https://www.freepik.com/free-photos-vectors/nature">Nature vector created by studiogstock - www.freepik.com</a>
-<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by freepik - www.freepik.com</a>
+![Animals in French preview](animals-preview.png)
+
+Made using:
+Angular
+
+# Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
